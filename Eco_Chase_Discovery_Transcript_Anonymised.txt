@@ -1,0 +1,251 @@
+Software Co / MY CHASE Discovery
+Mon, Mar 9, 2026
+
+1:20 - Client
+Hi, Client. How are you?
+
+1:21 - Client
+Yeah, good. How are you?
+
+1:22 - Team Member 1
+Yeah, I'm good. I'm good. Just give us a few minutes. I'm still waiting for Head of Development and our Project Manager, Team Member 3, to join the call. I've had to go home because I've got a migraine. Okay. I know that they had another meeting scheduled right up until 2.30, so it may have overlapped a bit. What I might do, if you want, do you want me to send you a text message once we're ready to start.
+
+1:48 - Unidentified Speaker
+Sure.
+
+1:49 - Team Member 1
+Yeah, sure. I'll do that. Okay. Thank you.
+
+2:05 - Unidentified Speaker
+We're getting there. Situation.
+
+2:43 - Client
+David did a great job with the state secretary.
+
+2:50 - Client
+He really made it happen.
+
+2:52 - Unidentified Speaker
+It's how I like it.
+
+2:53 - Client
+And, you know, it's just like you talked about earlier. She came out getting his hands ready, not turning the Okay, nice and ahead of development.
+
+3:28 - Team Member 1
+Joining in now. Perfect. Hi, Team Member 2 and Team Member 3. Thank you for joining the call.
+
+3:59 - Client
+Good yourself.
+
+4:01 - Client
+Not too bad. Thanks.
+
+4:04 - Team Member 1
+Good. So guys, um, this is Client. Client, um, has an actual app ID. Sorry. My work from home set up as a bit stupid today with my, um, yeah, so it's a travel based app. It's actually. The concept is pretty cool from what he did mention to me. Um, yeah, I think best thing is, so Client, the purpose of this call is for Team Member 2, who's head of development and Team Member 3 who's a project manager lead to get as much information as much grasp of the your actual concept as possible for them and their team to then go back and workshop it and Based upon go through that proposal, which will be based around the planning and prototyping First of all as we discussed in our call. Yeah. Yep. Yeah. Yeah, cool I think the best way to get this started then is yeah, I've heard your story what you're wanting to do It's probably best that Team Member 2 and Team Member 3. I'll hear it directly from you because I'll probably, yeah, totally stuff up your story. So, here we go.
+
+5:04 - Client
+Okay. G'day. I'm Client, guys. So, essentially where I'll start, my background is a policing background. So, I worked with the Army, I was with the Federal Police and then with the New South Wales Police and I got medically retired. Now, the reason that's important, so, essentially into the city in Sydney every so often. And dad's always got a story about, oh, I had a, and just excuse for the stories. Like I had a guy jump off a building there. I caught a guy who had a gun there, whatever it is. So I'm pointing these places out. Now that's where I started to think about this stuff. I'm like, you know, they're never gonna remember all this stuff that I'm telling them. And some of it's pretty cool. Other things were in fact like historical stuff that I'd found out from the police when I'm there. Like, you guys are based in Sydney, so if you go down to the rocks, right down there, out the front of the Fortuna Wall, you'll see a little park that two police officers, where the first two police officers killed in Australia was from a coward punch from an Irish guy who was drunk and punched the guy and he went up to Sydney Hospital. So these little stories started to get me thinking about this sort of stuff. Now, I recently took my daughters over to Washington, Los Angeles, New York, California, all through the US. Now, we've got over there and before we went, we had with all these spreadsheets of things we wanted to see and that sort of stuff. And the stuff we wanted to see were not only tourist spots, but obviously with my background, very interested in crime and that sort of stuff. So we were like, okay, when you go to California, what do you think of Crimes, famous crimes, OJ Simpson, Menendez Brothers, all these things. And I know it's morbid. But it's something I'm interested in and my kids are interested in. Especially with the Netflix stuff and that things going on, my kids got right into it. So, I went to look for an app and there's just nothing there. That's really simple. I want to go see everything to do with the Menendez brothers. I can't find any of that. There's nothing there. So, I'm having to create spreadsheets and it's just really cumbersome. So, that's where the genesis of the idea came from Now, I started playing around with it and that sort of thing. And then I'm thinking like, I want it to be basically like a Pokemon Go style app in which you can go out. A tourist thing. Yeah, yeah. A Pokemon style app where you are going out and collecting. And as nerdy as it is, this historical stuff, you're going to learn a lot that you didn't know before. And then the other part of it in which we were talking about the other day is a family a family-based part of this app. Now, I was gonna separate them into two, but I really, I can't see how one would be able to survive without the other, without the traffic. So a family-based app, so I've come into the last years of my life, I'm gonna pass away. As I said before, I want my kids to know about my story. Now, everyone's got the same basically five to 10 things that happen in their life, born, get married, go to school, these things, all right? Now, on top of that, we're gonna nominate five to ten other things that happen in your life that are specific to you. So, me, you know, could be anything, joined the federal police, where I lived as a child, these sorts of things. Now, I've come to the last years of my life, I get the app, I put all these places in. On top of that, I nominate three to four people that I think are important to me in my life, which would be my kids, just say my mum and my brother. Now, I pass away. And about a year after I die, because they're using the app as well, they're gonna get a message from me, from the grave as such, saying, hey, dad wants to spend the day with you. Now, for them to spend the day with me, they have to go out to these specific spots. Now, when you get to this location, a geofence is set up around that location. Step into that location, bang up on your phone message and a video comes up, hey, this is dad. This is important to me because I went to this place, this school, between this time and this time and whatever else. Now they collect all these things. Now there is an option at the end of that that we impart a secret or some sort of knowledge that I wanted to give to these people that no one else has got. I give that to them, but they have to complete and spend the time in getting to know me. And I think that sends a real powerful message and it's got a bit of emotional weight to it. So I've got that sitting in the background, also see that it we've got the criminal element, which is massive, especially coming back from the US, crime, crime tours, that sort of thing. I did a couple of tours just on the way out of Hollywood and they were just rubbish. People exorbitant amounts of money for stuff that they're not even learning. And then if you actually stop and read these little plaques and signs all over the street, there's amazing things that are happening. I was standing out front of a building where two really famous Hollywood actors got engaged. There was another actor who had perished in some sort of fight or something back in the day. You go up Sunset Street, you've got right there, everyone walks over the footpath where River Phoenix died. No one knows that unless you go and look that up. I think there's capacity, massive capacity here for some sort of app that would do that. Also, in that, I think there's scope for, you've got people, we've got, I'm looking on the internet and that sort of thing, people doing ridiculous and that sort of thing. We've got corporate sponsors and this sort of thing. We've got Starbucks, McDonald's, all these big places. If we set up an app, this app, and we set up tours within this app, or I'm calling it MY CHASE, they can go and visit every McDonald's in the, I looked at every McDonald's in the continental US, just say if you were that keen to get on it. It's going to take you 15 years, but that's something you want to do through the app, great. We can speak to McDonald's and there'd be some clown that wants to do it and dedicate their life to doing that and that sort of thing. But there's smaller challenges within that that we can set up. We've got topical stuff. Celebrities like I as I said before recently went to that the Raina murder. I went up there and had a look. There's the house. There's the hotel that he went to afterwards. All these places within walking distance or within driving distance of five to ten minutes and all these places people would basically I think would be interested to go and look at. So that's where it's sitting at the moment. I've done some basic stuff on base 44 just to basically come up with some slides on how it would work. I think it would be quite interesting. I know I've done a lot of stuff with the US but just within Australia I can see some potential there with tourism, New South Wales, that sort of thing. Just setting up tours like this around the city. There's plenty of exciting stuff that's happening in the city. There's tunnels underneath pubs and that sort of thing that people don't know about. Heaps of historical stuff there. I think there's a potential for.
+
+12:04 - Team Member 3
+Yeah, I love it. I love it. And I really kind of respect where you're coming from My dad's also in the federal police. So I understand. Yeah. So I relate to it, but there's a lot of potential here. I know, especially with my dad, he always, always when I was a kid, just pointing out, yeah, I arrested someone here. Someone jumped off a bridge over here. Like it isn't very morbid, but it's still interesting to know that's my father. Right. Yeah. But even like on your end of things, like I, a massive film buff and so when I went around Europe I was always looking for like, you know, holding up the photo of where a scene was held or if you go to like Martin Place, you go to that fountain where Superman Returns was filmed or The Matrix was filmed. I find that super interesting too. So I think there's a lot that you could do with something like this. I love it. I think it's a great idea.
+
+12:46 - Client
+Yeah, yeah.
+
+12:47 - Team Member 1
+I really like the sentimental part where, for example, you know, a father that's, you know, at their last stage just sets up this actual app and then every year year on his birthday, for example, the family gets notified, come, you know, say hi to dad, go to this location and then a video or whatever else can come back, a story of what happened there. That I actually find really, really cool.
+
+13:10 - Team Member 3
+Yeah.
+
+13:12 - Client
+Yeah. So yeah, there's a few working parts and you're exactly right. My daughter's a massive film buff and we went, we had to list a hundred places to go and look at, and it was so cumbersome and you just could not do it.
+
+13:23 - Team Member 1
+Blackwell's Corner. You went to Blackwell's Corner. For those that don't know, that's the last petrol station that James Dean put petrol in his car before he had his accident.
+
+13:34 - Unidentified Speaker
+Yeah.
+
+13:35 - Client
+It's in the middle of nowhere.
+
+13:40 - Client
+I've been well. So yeah. And that just blew my mind. I'm thinking people don't come out.
+
+13:46 - Team Member 1
+Client, you didn't plan to go there. You just bumped into it or?
+
+13:49 - Client
+Yeah, I just bumped into it. I was driving.
+
+13:51 - Unidentified Speaker
+Oh, that's funny.
+
+13:53 - Client
+Yeah. Yeah. Were going to see. Oh, we were going out to the Mojave Desert. We wanted to go out to the Mojave Desert. Yeah. And it just pops up like stuff like that's amazing. Yeah. Yeah. Like I stayed at the Biltmore Hotel. I don't know if you guys know in California on the way out. I can nearly name every single movie has been filmed in that hotel. Like you would go there. If you had this information, you would be more inclined to go there. I'm talking wedding crashes, cruel intentions. Heat was filmed out the front. Maddening. Everything. It's just all these places that are just nowhere Nowhere is it documented in one simple place to be able to do all this stuff. And I'm doing it on base 44 where it's almost working, but I just don't have that. And I'm just throwing out here. So don't hang me for it. But that box and that sort of thing, it's telling me I need to be using that sort of like, it's really quite a simple thing. And yeah, I think it's got massive potential in the way it could be utilized. And there's so many different components to it.
+
+14:51 - Team Member 1
+Client, how would you look at monetizing?
+
+14:54 - Client
+I'm premium So, we're talking about like if you look at the Menendez brothers, you've got their house up in the Hollywood Hills. Actually, I'll do it from OJ Simpson because I know that one. Simpson, if you go to his house, it doesn't exist anymore. They've skipped the address. The address is still there, but they've changed the numbers so no one really knows where it is. So, you know that that's there. You chuck it up there. But you're going to have to pay for the privilege. We're talking, depending on what the tour is. Now, something along the McDonald's type app, which is a massive thing to undertake. I'm talking about getting someone to pay, say, $99 and then they get access to that forever. And also, if we've got a corporate sponsorship, just say with McDonald's or some sort of agreement with them where they're actually issuing some sort of prize or some sort of recognition. Then I believe that's where people will be coming in for that sort of thing. The Pokemon ghost style thing, yeah, people are going to pick up the little things around. Like, I also wanted to cater to Joe Blog. He wants to go take his dog for a walk through the city, but he wants to do it through a museum. So he walks along and he's picking up stuff as he goes along that he didn't know was there before. But yeah, premium tours or just smaller tours, that's where I'm looking at making the money on it or monetizing it.
+
+16:17 - Unidentified Speaker
+Yeah.
+
+16:17 - Client
+Yeah. There's obviously some more thinking to go into that part, I know, but yeah.
+
+16:26 - Team Member 2
+Very interesting. So essentially the platform blends, you know, on one hand you've got urban exploration, then you've got interactive storytelling, then you've got gamified challenges, historical education, crime investigation tours, and you're also adding sort of that sentimental family legacy storytelling. And on top of that, possibly some corporate sponsorship experiences. So it's quite comprehensive. And I love the fact that framing it as like a Pokemon Go style, because that was quite viral. And people were doing that kind of an experience. So users are able to explore the real world locations, and discover hidden stories, and events, and insights, and all the crime history, et cetera. So yeah, it's very cool, very interesting.
+
+17:18 - Client
+And I don't have the technical knowledge, but you guys, but I think once I've got this sort of a map based part of it down, I think all the information's out there and relatively easy to get.
+
+17:29 - Team Member 2
+Yes. Yeah. Yeah. I mean, yeah, we'll plan out a way of getting all that data and a baseline for that data. So in terms of the target audience, you know, primarily like families, children's on one side and tourists and travelers, I'm guessing on the other side. Yeah. Yeah.
+
+17:51 - Client
+That's the thing. We've got the kids. Yeah. The kids are pretty important to it. I think within the kid framework, we can use it. It's probably going to be more used in a, maybe a school environment. Yeah. Yeah. Schools are going to want to grab that because I can just grab the kids, take them to town and bang the apps there. And they know where they're going, it's already planned out for them. I think there's a real scope for that part. But yeah, tourism, I think is massive. You land, I'm thinking and my vision is you're coming into Sydney airport landing and you're getting these ads for different things and popping up with MY CHASE. So that's just what I've coined it at the moment. But yeah, MY CHASE and telling you, hey, when you get to Sydney, download this app and off you go. And simple. Like you're putting in a couple of settings, things you're interested in and off you go.
+
+18:38 - Team Member 2
+looking in the background and give you a little notification. This event happened and check it out.
+
+18:46 - Client
+It just pops up for you if you want it. You can change the settings. If you live in the middle of the city, you don't want it popping up every day, but it'll pop up new things if new things happen.
+
+18:57 - Team Member 2
+Very interesting. I'm quite curious. It's great that you're prototyping it on base 42. Yeah. Is there anything you can share and show us so we can get a better insight into what you do?
+
+19:11 - Client
+Yeah, look, I can try and flick it to you. I'm not technologically minded. I don't know if it's going to work now or if I can do it afterwards. But yeah, look, I've done a real quick. Yeah, sorry, it's not popping up exactly and I'm having trouble opening and closing it. Afterwards it's fine. Afterwards it's fine.
+
+19:27 - Team Member 3
+Yeah, sorry. Yeah, just send it through to us and then, yeah.
+
+19:29 - Team Member 1
+Yeah, absolutely.
+
+19:31 - Client
+Yeah, but yeah, look, I've worked on about It's basically only four or five pages yet, but yeah, it seemed to come together. And I thought I was doing okay by myself. It was coming together pretty easily. But yeah, even with Base 44, it was able to put together, because I was in Bakersfield at the time, it was able to put together three or four really big crimes that happened with three or four actual key locations. And it was coming together really easily and really well.
+
+20:02 - Team Member 2
+Nice. Look, yeah, I love it. I'd like to sort of explore and workshop it a little with the team. To plan out. It's a big idea, a lot of things that we need to just think through and work out, at least at a higher level, how much effort we need to put in getting each of the sections right. So that's the exercise that we would like to do this week. And as a result of that exercise, we'll put that all into a formal proposal of sorts and then reconnect with you and take you through that. But yeah, we would ask for at least of days just to schedule a couple of sessions at our end, just to talk through and get the team members sort of brains going on it a bit and for us to scope the project. But yeah, it's very refreshing. It's really refreshing. It's a very refreshing concept.
+
+20:52 - Team Member 1
+I think it's great.
+
+20:52 - Client
+I really do.
+
+20:53 - Client
+Yeah, look, I've been sitting on it for a while, but you know, you can only sit on it for so long.
+
+21:00 - Team Member 1
+Yeah.
+
+21:01 - Client
+Yeah. And honestly, I'm really passionate about it. It's something I think is really got a lot of potential.
+
+21:13 - Team Member 2
+Anything else we should know as we're planning and thinking about the concert?
+
+21:20 - Client
+I've obviously been looking at other parts of the market in which things are similar. There's smaller things. There's a thing in the US where it's more directed at gun violence. Families of kids that have died actually actually set up nearly the exact same thing. So you can go to the place where their child died and a geofence will pop up and it will tell you the story of where their kid died, but that's it. There's no other further parts to it. There was a guy in New York and I almost went and bought the app for him, but he'd already removed it. It was called What Happened Here and that was the initial name for the app, but he was just too busy. All he did was throw everything on a map and all it did was just show you where things were. There's nothing behind it. No story, nothing. So there's smaller things but nothing at all like this at all.
+
+22:10 - Unidentified Speaker
+Interesting.
+
+22:12 - Client
+Yeah. We've just got to tread a line between gamifying it like Pokemon Go and there's a fine line to tread and when we're dealing with sort of heavy matters like crimes and that sort of thing and there'll be moral issues and things that we're going to step through. I was talking to my wife about it. So you're being careful. About how you navigate that sort of thing, but I think there's ways and means around it.
+
+22:37 - Team Member 2
+So, I mean, you are imagining it as that augmented reality sort of experience.
+
+22:43 - Client
+Yeah, well, ideally, I'd like to pop up, I'd like to walk into the geofence area, whatever that is, step into that, you get a message on your phone, pop up. I would even like, as you were talking about before, I think someone was mentioning having the video or a picture of what the place looked like versus you're standing there now? Or I'm tossing out whether we have, whether we can get something that I might just be talking out of my ass and it's not possible, but having someone like actually the person, so me as the deceased, I'm there. Can I, is there some way of popping up as me as the AR doing, hey, this is dad and talking with my likeness or do we get some sort of generic Yeah. Likeness. But that's all sort of
+
+23:30 - Team Member 1
+It's to have you appearing as. Yeah. Yeah.
+
+23:34 - Client
+So and then I guess we'd be walking through a lot of other sort of legal minefields and that sort of thing. If we're like just say you've got Ivan Malat and you go down to I don't know if you guys have been to Lingaloe State Forest but I have. If you go down the back there it's really hard to find where he did all that sort of stuff. I don't know if that's even possible to have some and I guess that's the moral stuff's coming in, this family is going to want you to going down there, but people do it anyway. And I think capacity to make donations to certain causes and that sort of thing might alleviate those sort of issues. But yeah, I'm sort of playing that out, whether it's just going to be a message or whether we can get someone popping up on an AR type person and explaining things to you. Yeah. Cool. They definitely have audio though, I'd rather talking to you. Again, I don't know if you guys have been in Washington. If you go to Washington, D.C., you've got Abraham Lincoln's where he was murdered. If you go into the – you actually sit in the theatre, Ford's Theatre, and you can sit there, and you've got headphones on, and they're playing the sounds and that sort of thing. And it's basically watching it like a movie in your head. It's that good. And then you go outside where he was taken after he was killed, and you stand there. Like that audio experience would be something I think is really valuable as well. Yeah.
+
+24:53 - Team Member 2
+Yeah. Yeah, I mean, I remember doing a similar tour in Dallas, Texas many years ago, where J.F. Kennedy was assassinated. They have converted that into one of the experiential memorials and preserved, they've kind of preserved everything in the way that it was. There was a guided tour there. One question I did have on a separate note, do you ever imagine that also to have, I mean, yes, I understand on the augmented reality means, and you have to be at that physical place to experience it, but also, could you also have pre-recorded stuff that, you know, that you could watch, you know, in a normal sort of screen or in a, you know, in a virtual experience?
+
+25:46 - Client
+about in lieu of actually attending the places or okay. See, and that's the line. I don't know whether. See, if I pass away, I'd like to think that I've picked out four people that are going to want to actually spend the time. Okay. Out and experience. I don't know if everything seems to be the other way now where you can just sit at home and not put the effort in. I don't and that's something I'm wrestling with as well. Is it going to be am I cutting nose off the spot my face in making people go out and actually do things or do it from home, I don't know. But again, it's not something I'm saying no to, but yeah.
+
+26:25 - Team Member 1
+Do you want to have the feature that if, for example, on the day that dad did pass and you're supposed to go out and do something and you haven't, because obviously the app can see it, that all of a sudden an actual video of dad comes up saying, yeah, no, you may have been busy. Could you maybe try to on another day? Or do you think that, yeah, see that?
+
+26:44 - Unidentified Speaker
+No, that's a good idea.
+
+26:45 - Team Member 1
+But I think that has a lot of value and depth as well.
+
+26:48 - Client
+Yeah, it does. It does. Like, I, you know, I think that's a really good idea. I do. I think that's a great idea. Yeah. I'd be more than happy for that to occur. It's just, I think, yeah, I think it's important that people take the time and actually go and do this. And I think that, like, I know we can do it on anniversaries and that sort of thing, but I think that first initial 12-month period and you get that message, I think people are going to rush out and want to do it. It's not always going to be possible. This might be something where, you know, your long-lost uncle from – died in the United States saying, I'm in Australia. It might take me a while to get over there and visit all those places, but I'll agree to it and that sort of thing. Yeah, and there is the component that your dad or whatever might have something to tell you that you didn't know about him. And we're not talking about – again, I can Pandora's box opening with family secrets and that sort of thing. But, you know, it doesn't necessarily be that dad had three illegitimate kids. It could be that dad smoked a joint back when he was in year seven. No one knew. It could be anything.
+
+27:53 - Team Member 1
+I've just thought about the other side of a really wealthy father, for example, dying and then leaving something of real value.
+
+28:01 - Unidentified Speaker
+Yeah.
+
+28:02 - Team Member 1
+And whoever doesn't turn up misses out.
+
+28:04 - Client
+Yeah. I was talking to you the other day. After a certain amount of time, if no one goes to chase that, I think the wealthy father who knows there's some value to that, this goes out to treasure hunters and that's a different thing altogether. We've got treasure hunters that could go out and find other people's secrets if they're so well inclined. I think there's a component there that could be sort of valuable to that as well. Yeah.
+
+28:30 - Team Member 1
+Cool.
+
+28:31 - Team Member 1
+Very good. We have everything we need, you think, Team Member 2?
+
+28:35 - Team Member 2
+Yeah, I think we do. Awesome.
+
+28:38 - Team Member 1
+So, Client, the next step is that we go away and workshop it and then present you an actual proposal.
+
+28:46 - Client
+Yeah.
+
+28:49 - Team Member 1
+Team Member 2, what does your time frame look like, When do you think you and your team can – do we want to try to book something now or should I reach out to Client again later in the week?
+
+29:04 - Team Member 2
+There's a lot of moving parts, like I'd like to do a proper thorough sort of planning. So if it's not leaving it too much, I, you know, I think sort of next Monday, Monday, Tuesday would be ideal, you know, give us this week to work through it. Because I mean, we want to do the planning. I mean, as well as I need to look with some of the engineering managers, some of the technical side of it on how we should approach it, because that will dictate sort of how much time we need to spend in planning it out. So, you know, I think next Monday or Tuesday, it's fine.
+
+29:41 - Team Member 1
+Yeah, did we say you want to try to book something for next Monday or Tuesday or do you want me to reach out to Client again on Monday just to I Would say I mean if you're free same time next Monday, yeah, mate Look, I'm free all the time.
+
+29:55 - Client
+You guys take your time doing you got to do I'd rather do it properly then Yeah, perfect.
+
+30:01 - Team Member 1
+I'll Send an invite then for next Monday Yeah in the afternoon and we'll take you through the proposal. Cool.
+
+30:14 - Team Member 2
+Yeah. Just, yeah, my only request is, you know, be in front of a computer so because we'll share our screen and talk you through it. Yeah. Yeah.
+
+30:22 - Client
+Okay.
+
+30:24 - Team Member 1
+Awesome. Thanks, Client. Thank you, Client. Thanks.
+
+30:26 - Team Member 2
+Nice. You're in Sydney, right? Yeah.
+
+30:29 - Client
+Yeah. I'm out at Penrith. So yeah, if you guys ever want to face to face, I'm just around.
+
+30:34 - Team Member 1
+Yeah. A hundred percent. Thank you. Thank you, mate. Hope to talk soon.

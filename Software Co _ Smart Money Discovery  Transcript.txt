@@ -1,0 +1,268 @@
+Software Co / AI Money Discovery
+
+0:11 - Team Member 1
+Team Member 3, why does the otter keep on turning? Hello.
+
+1:45 - Team Member 2
+Hello. How are we? Hanging in there.
+
+1:51 - Team Member 1
+Uh-huh.
+
+1:51 - Team Member 1
+I can see. I can see. Yeah, I am okay. I am. I'm looking forward to this call.
+
+2:04 - Team Member 2
+Is Team Member 3 joining?
+
+2:06 - Team Member 1
+Yeah. Team Member 3 has just decided to make his presence felt.
+
+2:11 - Team Member 3
+I was doing very important password stuff.
+
+2:15 - Unidentified Speaker
+Right.
+
+2:18 - Team Member 1
+And what's the client's name?
+
+2:20 - Team Member 1
+Client. I did actually link his website, his blogs and his blogs as well. He did confirm that he was joining.
+
+2:34 - Team Member 2
+Is there a brief of the nature of the project?
+
+2:40 - Team Member 1
+I did a full discovery. The good thing about all of this is that Client is now here and he will take us through what his actual brief is. We've obviously met, but I've also got Team Member 2, who's our Head of Development, and George project manager lead on the call as well. So as discussed with you, the purpose of this call, it's basically a deeper dive discovery. The actual tech heads, nerds, I didn't say that, are also in the call now. They're basically here to take that more technical information to then be able to go away, workshop it and put together a more solid proposal, as I've discussed with you for the planning and prototyping, first of all, but then also with a broader estimate of what the development could also look like, You and I, we've had a bit of a chat in regards to what it is you're wanting to do, but I think it places a whole lot more value if you can give that quick 30-level as in you're traveling 30 levels, not just two, in regards to what your actual ideas are and yeah, take it from there.
+
+4:22 - Client
+So do you want me to get started now or? Yeah, yeah, go for it.
+
+4:26 - Team Member 1
+Unless you want to make yourself a coffee or something first, but you know.
+
+4:29 - Client
+No, no, no, all good. I'm good to go, I'm good to go. Look, basically, you know, I'm sure Team Member 1 would have probably, you know, give me a bit of a background, but obviously I've been in financial services for probably 20 years, in our own business AI money for about 10 now. What we do here is we do obviously wealth management in terms of financial planning, and we do home and investment loans as well. And we also help clients with property investment and buyers agency and whatnot. Obviously, there's a catchment of clients that we can help quite a lot. But what we also have noticed more and more is that, maybe you call it lower value or do it yourself type clients where what we're seeing from them is that, economically things are changing a lot for people in that it's more cashless, it's more digital. And the more and more people we meet with, they're less and less aware of where their stuff is at. So what obviously the idea was, I call it invisible money in that people have cashflow, they have super, they have different bank accounts and loans and stuff, but they don't actually know where it all is and they're not aware about it on a quick basis. They can't just come up with it like that. They have to go over here for their super, over there for the bank, over there for their loan, it's a bit of a mess, okay? So I started looking around, is there some sort of app that, you know, kind of can tie all this stuff together? And what I found mostly out there is more budgeting style apps, which just tracks cash flow, but doesn't really go much deeper than that. So basically, you know, what I thought about is, you know, can we create an app that kind of brings it all together? So it brings their property value in, brings their loan in, you know, brings their super in there, brings their cash flow in there, you can store dollars within that app as well. So just a complete wealth management, wealth creation app that you can obviously track everything in one place and obviously, you know, build on that too. So initially, you know, you can manage cashflow. You can see your asset values climbing based on integrations and APIs. You can see your home loan going down or any other loans that you have. From that data, we can potentially like to make suggestions to people in that, say for example, if the home value is worth a million and the mortgage is 500K, we can say you've got X amount of equity, you could do something like this with that equity if you wanted to, to help you build your wealth. If they had a bank account with say 50K in it and they've got a mortgage, it's not offset, it could be basically say to them, maybe a notification saying, you've got 50 grand in your bank account, it's not offsetting your loan. If you offset your home loan, you can save 15 years and 300 grand and interests, for example, stuff like that. So proactive little hints and tips along the way, but also cashflow tips. If they've got $2,000 surplus this month based on what's coming and what's gone out in cashflow, maybe the suggestion is if that money goes into this loan or this goal, this is how much quicker you're gonna pay it off or how much quicker you're gonna save towards that goal, for example, okay? Beyond that, I think you can obviously get a bit more complex in the background, but we may not lead with this part. There's also, you know, comparison options that we can add to it moving forward in the backend in that, you know, they can basically compare their home loans, their car insurance, just like compare the markets and find all the other stuff. But I just, I feel like with the, I guess, development of AI and technology these days, if they were to enter that information upfront, you know, why can't we basically prompt them before renewal and actually find those comparisons for them upfront and say, here are three more cost effective options for what you have. A home loan, we know the interest rate, cause it's obviously fed in via API. We know what other interest rates are for a loan to value ratio of something similar to what they have. Can we make those suggestions in there as well? So in a nutshell, that's kind of, I don't know, is that enough information? Do you need more than that? What are we trying to build?
+
+8:34 - Team Member 2
+No, it gives, it paints, yeah, it paints a decent sort of picture. And, you know, from, I mean, from what I understand, you are looking to become like a centralized financial intelligence systems, right? For the financial planning and wealth management and growth of the clients. Is this going to be only for AI money or are you looking productize it that anybody can sort of download and use?
+
+9:03 - Client
+We want to productize it. We want to be able to basically go beyond just our AI money clients. We want to basically have it as a general go-to-market sort of thing too.
+
+9:14 - Team Member 2
+Interesting, okay. So anybody can download the app, go through the onboarding process of profiling, creating the profile, adding sort of your assets like liabilities, et cetera. And the system will sort of then understand that user's complete financial position, and continue to understand that in real time. We could ask permissions to sort of stay connected with certain platforms, right? Also track and sort of optimize their asset liability and cashflow, I'm guessing. Manage property well. Analyze their current lending structures, if it's one or multiple. Make certain suggestions. Or on the app, if there is a financial planner attached to it, then there could be a financial planner's module to have some insights as to what they can guide or advise their clients on. I'm just trying to understand like how...
+
+10:20 - Client
+Potentially. So basically, overall, the way we would need to run it up front is more of a general advice basis. You obviously need a license for that, but it would be on a general advice basis. We can obviously provide an option within that if they want to take it and be more personalized and actually speak to planner, we can actually do that on the back end.
+
+10:40 - Team Member 2
+But on the upfront, overall, it would be an option that to connect with a planner or some packages or things that they can sort of subscribe and get get access to a planner and maybe a planning session or two planning sessions.
+
+10:51 - Client
+Exactly. So that that's definitely something we've always thought about. Initially, the idea was, you know, is, you know, this could be just for AI money clients as a lead generation aspect. But then we thought quite a lot broader than that. We think that the potential is probably greater. I mean, I mean, that's our opinion anyway, at the moment. Yeah, so basically, look, I've noticed, like I said to you, there's a lot of budgeting style apps, but nothing that kind of ties everything together, even to the point where they can, you know, save documents. There is one solution like this, but it is heavily marketed to planners only. It's called MyProsperity. That kind of has assets, liabilities, cashflow, all that in there. And there's even a document storage aspect with it, where you can obviously scan your documents, save them all in there, So when it comes to tax time, you've got access to all your documents in one place. But it's never, I mean, I haven't noticed it. I don't believe they go direct to market. They basically just go straight to financial planners or other brokers.
+
+11:49 - Team Member 2
+They're mainly for accountants and financial advisors.
+
+11:53 - Client
+They are. So they approach that sort of the professional aspect, if you like, And then they allow us to potentially on-sell it, but they charge us per user per month. To do that. And, you know, what they want to charge us doesn't really make sense. I don't know why they haven't gone to market. I mean, that's their strategy for whatever reason. I'm not sure, you know.
+
+12:15 - Team Member 2
+And they just position themselves more as a B2B product.
+
+12:19 - Client
+Well, I believe they've been actually taken over by NetWealth, which is an investment company that basically has super funds and investment. They have a platform. They've been taken over or bought out, if you if you like, and I'm assuming they're gonna tailor it to themselves. I think there was another money management app, which wasn't the same as what I'm suggesting called Money Brilliant, which Westpac bought out too. So they tend to buy them out and then they kind of dissolve and disappear. I think they take them into their own tech and basically just, I don't know if they rebranded them at Westpac or whatever they did. I'm not sure exactly what happened to it, but you basically, they bought them out and then they kind of just, that particular app ended in existence. And I believe they just have the Westpac app or whatever that is. All the banking apps, they just don't do what I'm suggesting. The banking apps obviously only track their stuff within the banking sort of environment that you have with them, but they don't integrate with others. Now, obviously with us, there are a number of API connections we can access to like basic, in terms of property data, you've got domain or RP data that offers API for us to be able to track this information. And there's a few others as well that we can access as well. Even from a comparison tool perspective, if we incorporate that, there are APIs that we can obviously take advantage of for that sort of comparison aspect as well as have. So we might have to present it in a much more simpler way and then have those other benefits in the background, if that makes sense, to not overcomplicate the solution for the end user, I think.
+
+13:55 - Team Member 2
+Yeah. Sense. So when you talk about the end user, I mean, am I correct in understanding that the primary users would be like homeowners, property investors, high end network individuals, you know, self employed?
+
+14:08 - Client
+Really? No, not at all. So you can actually be anybody. Basically, if you want to take more control of your money, that the app would be for you in that you can track your assets, you don't necessarily need to be a homeowner, you might be a renter. But you know, you still have super, you still have cash flow, you might still have other investments, like investment properties, or or not. So it can be a tool that we can obviously, they can utilize to help them grow their savings, you know, reduce debt, et cetera, et cetera.
+
+14:34 - Team Member 1
+So it's about helping people create wealth as well as people managing their wealth.
+
+14:39 - Client
+Yeah. A hundred percent. Exactly. So basically it's to help them take full control of it and have, have complete transparency of everything you have in one place. Cause I can tell you now, 99 or maybe, maybe not, but 95% people we meet don't know the balance super they haven't even opened the envelope you know from the last time they received it because they just feel like it's money they can't touch um you know they don't know the interest rate in their home loan why because the bank probably wants to hide it from you anyway because they don't want you to know so this is kind of just to you know make people aware of all this information and then help them utilize that to get ahead yeah makes perfect sense so when I think about the app itself I mean in terms of core modules I'm just trying brainstorm what I'm imagining right so in terms of the core module I'm imagining a financial dashboard which is like a command center you know to have features such as a net worth overview, asset and liability breakdown, monthly cash flow summaries, debt summary, property portfolio overview, portfolio sort of our investment portfolio overview, maybe some credit scoring system on maybe some notifications.
+
+15:52 - Team Member 2
+I mean, if we've, if we've plugged into the marketplace of comparisons, maybe sort of some nudges and notifications to say, you know, these are our top three sort of AI recommendations based on how you're going this month. So that's, other than that, then there could be an asset management module, you know, where they manage their property or properties, you know, track the value. How the sort of repayments are going, et cetera. Then there could be an investment asset management, whether it's shares, ETFs, you know, managed funds, et cetera. They could manage that. Superannuation, any other assets that they have, they can add to, you know, whether they purchase cars or they have jewelry or whatever else.
+
+16:36 - Client
+There's going to be, look, there'll be some manual add-ins they need to do, like your, you know, your cars and stuff There's not going to be an API for that, I don't believe, but in terms of, you know, property and cashflow and loans, obviously we can get the real data on that, but other aspects to your suggestion, you know, whether it's cars or, you know, home contents or whatever it might be, probably has to be manually added, but yes.
+
+16:57 - Team Member 2
+Yeah. It's also like, I mean, I'm also guessing a liability and a debt management section where loans, home loans, investment loans, personal loans, credit cards, buy now, pay later sort of accounts accounts, everything should all be in there where they can manage their interests, payments, et cetera, as well as refinancing opportunities as and when the system picks up that there are better options for them. Another module I'm thinking, I guess, is a cash flow and a budget intelligence module. And this could be, again, depending on how real time and smart you want to make it. But we've done things where we can directly take their permission to integrate into their accounts and transaction feeds. It has a real-time pulse of what's happening across their accounts. It automatically can categorize the spending categorization, income tracking, budgeting, expense forecasting, all of those things.
+
+17:54 - Client
+Yeah, subscriptions and all that sort of stuff.
+
+17:57 - Team Member 2
+And if they've got maybe a tool to allow them to create saving goals and sort of track that in real time on how that's going. You mentioned, I mean, a focus on the property sort of wealth creation. So, you know, maybe they can, for those that don't have properties, they can run some scenarios, you know, based on their savings, liability situations, sort of what they can get into, make some sort of soft recommendations. And those that do, you know, obviously manage that, and there could be some sort of, again, you would guide that as the expert on how structure their property portfolio or the plan to build a portfolio of properties, along with a broader sort of financial goal planning, you know, people, I mean, at a high level, general basic goals, or people want to buy a house, live in a property, they want to do some retirement planning, maybe they want to plan future education, et cetera. So we can have those, things that they can sort of go in and manage and have that in place. I'm just thinking out of the box, maybe a section for rules where they can sort of have rule in place.
+
+19:17 - Client
+Well, that could be in the storage section. You know, that could even be an option where, you know, you can link them to a solution if that's what it is, like maybe not a DIY, but whatever we can, you know, I've seen some, there is a state, I mean, we can talk more about that, but yes, there would be some something the wheels as well as they plan.
+
+19:39 - Team Member 2
+Yeah. I lost my channel. Yeah. But so, I mean, so that's, that's the goal sort of module. And of course you want, you mentioned an entire sort of section for product comparison, like a product comparison marketplace. There could be a section where, you know, you can go into lending sort of products, loans, home loans, investment loans, personal loans, credit cards, or insurances. Oh yeah, that was it. So I think there should also be as part of financial planning, insurance is a big part of it to make sure that there's a, a, health check, you know, take them through and just make recommendations and make sure that they have the right insurances. Yeah.
+
+20:15 - Client
+I mean, I'm assuming obviously with, obviously, you know, whether it's AI or whatever the technology will be, obviously when their data is dragged in from, from the super, I believe with superannuation, there's no direct API, but I believe it's data scraping. That's what basic I've met with, I've spoken to basic a number of months ago about this. I think they're one of the only ones that do data scraping from super funds because because the super fund providers don't actually provide an open banking solution yet, the cheeky buggers. So with that, with the scraping, you can probably identify if they've got insurance in there or ask the client. And if they don't, I guess a part of the solution could be, based on the data they inputted, we've got certain calculators that we use that basically say, okay, based on your situation, you need X, you've got Y. If you wanna top up, click here and then it maybe provides some quoting. Based on that too. Again, it's all going to be created in an easy to understand and simple way without overcomplicating it. And I understand that these things cannot be overcomplicated, but it might be like a staged sort of thing, if that makes sense.
+
+21:20 - Team Member 2
+Most projects like this is staged. I mean, the recommendation, first of all, is to understand what the potential of the platform is, right? What is the best version of this product look like, And that be a year, two years in the future, once built out. So we plan it all out and that's important to sort of set it right initially in the plan as well as the foundational sort of work according to the growth that you want, all the modules that you want to grow into it over time. And then in terms of executing, in terms of developing it, bring it down to the MVP, right? What are 15 things we should sort of identify as the higher priority item that we should put into the development, release it, get users using it and what does the future roadmap look like, you know, pick up a few modules and add to the product. That's the typical sort of, you know, typically how a product like this is executed over a longer period of time.
+
+22:20 - Client
+Makes sense. Makes sense. Okay. Okay.
+
+22:22 - Team Member 2
+And I'm also guessing like, I mean, out of all these modules, there would be definitely in every product that we develop nowadays, you know, we try with the AI model sitting right in the center.
+
+22:37 - Client
+Sorry, you cut out there, Team Member 2. Sorry, mate. What was that?
+
+22:40 - Team Member 2
+I said every product or every project that we work on nowadays is, you know, we propose it to be an AI native product with the AI model sitting right in the center of it. You know, and I'm guessing with a product like this, there would be some sort of an AI financial advisor that we can think of, right? Because it has so many data inputs and then it can make smart recommendations based on the algorithms that we, you know, uniquely create for this platform. And the other good thing about it AI algorithm is we would always build it so that it's continuously self-learning and continuously then personalizing the recommendations to each of the individual users.
+
+23:13 - Client
+Yeah, agreed. Obviously, that would be important and I think that it's even a selling aspect as well.
+
+23:21 - Team Member 2
+So, there's a lot that we can do with all sorts of recommendations of planning, budgeting, refinancing, etc. Consolidations, savings optimization, you know, we can dive into all of that. Financial health sort of scoring scenarios, sort of generation. People like to know, do some scenario planning and there's no systematic way of doing that, which can be done with proper sort of planning. The way for people to plan out scenarios, it'll be really nice because people will only sort of understand things that they see.
+
+24:00 - Client
+Yes, exactly. Agreed.
+
+24:04 - Unidentified Speaker
+Hello.
+
+24:07 - Team Member 1
+We can hear you, Team Member 2, but we can't see you. I mean, we can see you, but you're frozen. We can't hear you now, either. I think we've lost him.
+
+24:18 - Team Member 3
+Yeah, I think we've lost him.
+
+24:20 - Team Member 1
+Yeah, looks like he's lost.
+
+24:26 - Client
+I'm sure he'll come back in.
+
+24:27 - Team Member 1
+Yeah, sure. But yeah, it's definitely, as we already discussed last time, very, very, very interesting and a lot of opportunity, especially with how fast and how well AI is moving. The other thing that helps a great deal with integration of AI is that R&D. That we spoke about, the R&D grant as well. So there's a lot of potential there. So yeah, I don't know where Team Member 2 has disappeared.
+
+25:06 - Client
+I think it's just an internet sort of dropout. I'm sure he'll be back.
+
+25:10 - Team Member 1
+Yeah. Yes, yes, yes, yes. So yeah. Do you have any, I know that you went to that step, I think about a year ago, of actually looking for a CTO to try and drive this actual platform internally. So do you have any kind of timeline that you're theoretically looking at when you're wanting to launch?
+
+25:37 - Client
+Look, basically, as soon as we can, but realistically, basically as soon as we can, like as soon as it's working, you know, as soon as we can get it up and running, the better. Basically ASAP.
+
+25:51 - Unidentified Speaker
+Yeah.
+
+25:52 - Team Member 1
+I believe Team Member 2 is back.
+
+25:54 - Unidentified Speaker
+I think I can see him.
+
+25:58 - Team Member 1
+Team Member 2, have we found you again? He's here in spirit for the moment.
+
+26:10 - Client
+It's funny. He said he's rejoining. Yeah, he said he's rejoining now. Technology I thought it was not so well.
+
+26:19 - Unidentified Speaker
+Yeah.
+
+26:20 - Team Member 3
+Especially when you're in Australia and our Wi-Fi is one of the worst in the world, despite we invented it.
+
+26:25 - Client
+Yeah. Mate, our office is just, it can be a headache. He just drops in and out whenever he feels like it. And we've got Telstra apparently, they're supposed to be one of the better guys, but they're terrible.
+
+26:33 - Unidentified Speaker
+Dude, I'll tell you what, I was on top of a mountain in Poland and I got five bars. I don't get any bars when I go past Stratfield. So it just makes no sense.
+
+26:40 - Unidentified Speaker
+Sorry guys. Yeah.
+
+26:43 - Team Member 3
+so I had all good oh no problem are you there Team Member 2 oh boy nah anyway that's all right yeah it is fine Team Member 3 I think we have do we have most of what we I yeah I think we had enough to definitely put together a proposal um so what we'll do that'll be a two proposal for the planning and prototyping, which usually spans anywhere between four to six weeks, sometimes eight if it's a really in-depth product with a lot of compliance, which this may fall under. And with that, we'll do all the UI, UX screens, we'll do all the technical planning and architecture. That'll be a really big document. It's often a couple hundred pages in length. And essentially, at the end of that process, you'll have a table of all the different modules in the product. How much they'll cost in terms of time and also dollars. So you can pick and choose what you want to build based on your budgetary requirements as well. And then from there, that'll give you your development estimate that then if we were to proceed into building the product, you'd know exactly how much it would cost and how long it would take.
+
+27:57 - Client
+Gotcha. Gotcha. Okay.
+
+28:02 - Team Member 3
+Any other questions from your side, Client?
+
+28:04 - Client
+Look, not yet, to be honest. No, I don't think I've got any questions I think it was more just to see what you guys need from here and then take it from there. Yeah, is there anything else you need from me, Team Member 1?
+
+28:19 - Team Member 1
+No, nothing at this stage. Look, the only thing in theory for us to put the proposal together, do you want this to, have you come up with a name for this app individually, freestanding or?
+
+28:33 - Client
+I have, I'm just working through that now in the naming and name, I'm thinking is my money mate.
+
+28:39 - Team Member 1
+My money mate. Okay.
+
+28:40 - Unidentified Speaker
+Yeah.
+
+28:41 - Team Member 1
+So we'll just put the proposal in that name at least. So there's some connection there. Uh, yeah, that's no, that's pretty much the only thing at this stage I'm sure and we know how to find each other. So yeah.
+
+28:56 - Client
+Yeah, for sure. Okay. So, so what do you, what do you need from me from here? So I just wait for the proposal. That's what happens now.
+
+29:03 - Team Member 1
+So what the step would be Team Member 2 and his team, they go back and workshop it. And because the proposal is pretty much in depth, we will actually present it to you. And yeah, we'll get back to you in the coming days to confirm when we'll go ahead and do that. And we'll go from there.
+
+29:29 - Client
+Okay,
+
+29:30 - Client
+And the proposal to prepare that usually takes how long, roughly, just out of curiosity?
+
+29:35 - Team Member 1
+Three to five days. It could be two or three days. It could be up to two or three days further out, depending on workload. How much of the scope Reality or is, you'll definitely have it at the latest by the 23rd or something of March, which will be 14 days from now. It could potentially even be later this week. So it'll either be later, sorry, not later this week, later next week, or the week after that.
+
+30:07 - Team Member 3
+Yeah. Next week, next week.
+
+30:09 - Team Member 1
+Yeah, but no, we're all Team Member 3. I'm also looking at, cause I know Team Member 2's traveling quite a bit, but it did suggest that it would be great to meet in person that we could potentially, and I know that Team Member 2's going to be hard to nail down up until the week of the 17th for an actual proper face to face at our Sydney office here.
+
+30:31 - Client
+So it's not the end of the world, man. It's not an issue in this day and age. I think we're used to the virtual stuff. Sure at all. So happy to do that if that helps everybody. So that's not a problem. That's not a problem. Well, this obviously proposal, I'm just looking, I was looking at your website earlier. Does it go through, I'm assuming that's the first stage, which is the, what do you call it, the prototyping and whatnot, where you're looking at market research and all that sort of stuff. Is that a part of this or is that separate?
+
+31:00 - Team Member 3
+Yeah, we definitely do some market research as part of when we're doing the designs. So our UI UX team will look at similar products and do that. That's for strictly just for what's already in the market. If you're talking in terms of marketing, then we do a separate go-to-market plan if you were interested in exploring marketing later down the road.
+
+31:17 - Client
+Gotcha, gotcha. Yeah, I was just curious as to what's actually involved, but I guess we'll know more when you all prepare the proposal and put it together.
+
+31:24 - Team Member 1
+Yeah, when we present the proposal, you'll actually get a very, very, very in-depth understanding by us actually showing you other examples of plans and prototyping work that we've either completed or currently working on. And yeah, take it from there. Makes sense.
+
+31:42 - Client
+Makes a lot of sense. Makes sense. I'll wait to hear from you.
+
+31:46 - Team Member 1
+Not a problem. I'll reach out to you with the actual dates for the proposal presentation then. Yeah.
+
+31:53 - Client
+Thank you very much, guys. Really appreciate your time.
+
+31:55 - Team Member 3
+Thank you so much, Client. Thank you, mate. Talk soon. Bye.
+
+31:58 - Unidentified Speaker
+Enjoy the day.
